@@ -1,2 +1,3 @@
-My cats name is Neo
-He likes trout wetfood
+git status
+git add .
+git commit -m "commit message"
