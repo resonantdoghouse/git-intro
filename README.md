@@ -1,3 +1,3 @@
-git status
-git add .
-git commit -m "commit message"
+My cats name is Neo
+He likes trout wetfood
+Fixed something
